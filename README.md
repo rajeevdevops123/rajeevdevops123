@@ -5,7 +5,6 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
 
 DevOps
-![image](https://github.com/rajeevdevops123/rajeevdevops123/assets/163814664/a5b521fa-f849-4185-ad1b-6bf8e07b96e8)
 
  
 Databases and Monitoring
